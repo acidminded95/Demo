@@ -4,10 +4,25 @@ body
     text-align: left;
     font-family: "Courier";
 }
+#header
+{
+    background: #88f;
+    box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.75);
+    color: whitesmoke;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#header #tagline
+{
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 10;
     text-align: left;
     border: 1px solid#DDD;
     margin: 0 auto;
