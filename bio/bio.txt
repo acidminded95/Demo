@@ -1,0 +1,4 @@
+hehe
+this is my new bio
+there's a lot to say
+today, I'm learning git and wsl
